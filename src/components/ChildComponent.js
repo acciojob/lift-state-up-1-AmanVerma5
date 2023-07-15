@@ -13,7 +13,7 @@ const ChildComponent=(prop)=>{
               </div>
             }
         </div>
-    )
+    )   
 }
 
 export default ChildComponent
