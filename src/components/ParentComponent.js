@@ -6,7 +6,6 @@ const ParentComponent=()=>{
     return (
         <div className="parent">
             <h1>Parent Component</h1>
-            {console.log("parent")}
             <ChildComponent changeModal={setShowModal} Modal={showModal}/>
         </div>
     )
